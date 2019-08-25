@@ -19,9 +19,9 @@ Read our [privacy policy](https://koncera.flycricket.io/privacy.html) for more i
 
 ### Screenshots
 
-![Image](Screenshots1.png)
-![Image](Screenshots2.png)
-![Image](Screenshots3.png)
+![Image](Screenshot1.png)
+![Image](Screenshot2.png)
+![Image](Screenshot3.png)
 
 ### Support or Contact
 
