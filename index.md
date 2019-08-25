@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to Koncera iOS app
 
-You can use the [editor on GitHub](https://github.com/yairleisure/KonceraSite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Koncera sends you smart notifications when the prices of the stocks you follow change. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Made for busy people who don't have time to manually check their stock prices but never want to miss out what's happening.
 
-### Markdown
+For each stock you want to get notifications, you can choose a different price movement size to get notified. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Whenever the stock price goes up or down since the last time you get notified, you will receive a push notification in real-time to your phone.
 
-```markdown
-Syntax highlighted code block
+### Example
 
-# Header 1
-## Header 2
-### Header 3
+> Let's say that Apple stock price is now $200 you want to get notified on every 3.00% price movement. You will get the next push notification whenever the stock price is above $206 or below $197 after a couple of minutes, hours or days. 
+Afterwards, the next push notification will be sent when Apple stock price moved 3% up or down since the last notification you received. And so on!
 
-- Bulleted
-- List
+### Privacy
+Koncera respects your privacy and does not collect any personal information. No sign-in required. 
+Read our [privacy policy](https://koncera.flycricket.io/privacy.html) for more info.
 
-1. Numbered
-2. List
+### Screenshots
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yairleisure/KonceraSite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Image](Screenshots1.png)
+![Image](Screenshots2.png)
+![Image](Screenshots3.png)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Koncera or feedback to share? Contact us via email [koncera@outlook.com](mailto:kocera@outlook.com)
