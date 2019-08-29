@@ -10,7 +10,7 @@ Whenever the stock price goes up or down since the last time you get notified, y
 
 ### Example
 
-> Let's say that Apple stock price is now $200 you want to get notified on every 3.00% price movement. You will get the next push notification whenever the stock price is above $206 or below $197 after a couple of minutes, hours or days. 
+> Let's say that Apple stock price is now $200 you want to get notified on every 3.00% price movement. You will get the next push notification whenever the stock price is above $206 or below $194 after a couple of minutes, hours or days. 
 Afterwards, the next push notification will be sent when Apple stock price moved 3% up or down since the last notification you received. And so on!
 
 ### Privacy
