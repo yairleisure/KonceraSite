@@ -1,8 +1,12 @@
 ## Welcome to Koncera iOS app
 
+The simplest but yet most efficient app to track your stock prices without losing your productivity!
+
 Koncera sends you smart notifications when the prices of the stocks you follow change. 
 
 Made for busy people who don't have time to manually check their stock prices but never want to miss out what's happening.
+
+### How Does It Work
 
 For each stock you want to get notifications, you can choose a different price movement size to get notified. 
 
