@@ -6,6 +6,9 @@ Koncera sends you smart notifications when the prices of the stocks you follow c
 
 Made for busy people who don't have time to manually check their stock prices but never want to miss out what's happening.
 
+Download from the App Store:
+https://apps.apple.com/us/app/koncera-stock-price-movements/id1469949208
+
 ### How Does It Work
 
 For each stock you want to get notifications, you can choose a different price movement size to get notified. 
